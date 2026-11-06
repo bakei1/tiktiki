@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+.env
+.env.local
+.env.*.local
+.npm-cache
+.cache
+.chrome-profile
+screenshots/inspect.png
+.DS_Store
+*.local

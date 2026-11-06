@@ -1,0 +1,4 @@
+project_id = "tik"
+
+[functions.username-login]
+verify_jwt = false
